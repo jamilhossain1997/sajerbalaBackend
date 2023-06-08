@@ -1,0 +1,66 @@
+[27-Sep-2022 07:18:51 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'ebdbazar_everte...', '30todV40t5eU', Array)
+#1 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(100): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'ebdbazar_everte...', '30todV40t5eU', Array)
+#2 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(50): Illuminate\Database\Connectors\Connector->tryAgainIfCausedByLostConnection(Object(PDOException), 'mysql:host=loca...', 'ebdbazar_everte...', '30todV40t5eU', Array)
+#3 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\ in /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[27-Sep-2022 07:18:52 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'ebdbazar_everte...', '30todV40t5eU', Array)
+#1 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(100): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'ebdbazar_everte...', '30todV40t5eU', Array)
+#2 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(50): Illuminate\Database\Connectors\Connector->tryAgainIfCausedByLostConnection(Object(PDOException), 'mysql:host=loca...', 'ebdbazar_everte...', '30todV40t5eU', Array)
+#3 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\ in /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[27-Sep-2022 07:18:54 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'ebdbazar_everte...', '30todV40t5eU', Array)
+#1 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(100): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'ebdbazar_everte...', '30todV40t5eU', Array)
+#2 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(50): Illuminate\Database\Connectors\Connector->tryAgainIfCausedByLostConnection(Object(PDOException), 'mysql:host=loca...', 'ebdbazar_everte...', '30todV40t5eU', Array)
+#3 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\ in /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[27-Sep-2022 17:17:10 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'ebdbazar_everte...', '30todV40t5eU', Array)
+#1 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(100): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'ebdbazar_everte...', '30todV40t5eU', Array)
+#2 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(50): Illuminate\Database\Connectors\Connector->tryAgainIfCausedByLostConnection(Object(PDOException), 'mysql:host=loca...', 'ebdbazar_everte...', '30todV40t5eU', Array)
+#3 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\ in /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[27-Sep-2022 17:17:11 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'ebdbazar_everte...', '30todV40t5eU', Array)
+#1 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(100): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'ebdbazar_everte...', '30todV40t5eU', Array)
+#2 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(50): Illuminate\Database\Connectors\Connector->tryAgainIfCausedByLostConnection(Object(PDOException), 'mysql:host=loca...', 'ebdbazar_everte...', '30todV40t5eU', Array)
+#3 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\ in /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[27-Sep-2022 17:17:11 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'ebdbazar_everte...', '30todV40t5eU', Array)
+#1 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(100): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'ebdbazar_everte...', '30todV40t5eU', Array)
+#2 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(50): Illuminate\Database\Connectors\Connector->tryAgainIfCausedByLostConnection(Object(PDOException), 'mysql:host=loca...', 'ebdbazar_everte...', '30todV40t5eU', Array)
+#3 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\ in /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[27-Sep-2022 17:17:11 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'ebdbazar_everte...', '30todV40t5eU', Array)
+#1 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(100): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'ebdbazar_everte...', '30todV40t5eU', Array)
+#2 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(50): Illuminate\Database\Connectors\Connector->tryAgainIfCausedByLostConnection(Object(PDOException), 'mysql:host=loca...', 'ebdbazar_everte...', '30todV40t5eU', Array)
+#3 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\ in /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[27-Sep-2022 17:17:11 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'ebdbazar_everte...', '30todV40t5eU', Array)
+#1 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(100): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'ebdbazar_everte...', '30todV40t5eU', Array)
+#2 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(50): Illuminate\Database\Connectors\Connector->tryAgainIfCausedByLostConnection(Object(PDOException), 'mysql:host=loca...', 'ebdbazar_everte...', '30todV40t5eU', Array)
+#3 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\ in /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[27-Sep-2022 17:17:11 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'ebdbazar_everte...', '30todV40t5eU', Array)
+#1 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(100): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'ebdbazar_everte...', '30todV40t5eU', Array)
+#2 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(50): Illuminate\Database\Connectors\Connector->tryAgainIfCausedByLostConnection(Object(PDOException), 'mysql:host=loca...', 'ebdbazar_everte...', '30todV40t5eU', Array)
+#3 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\ in /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[27-Sep-2022 17:17:12 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'ebdbazar_everte...', '30todV40t5eU', Array)
+#1 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(100): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'ebdbazar_everte...', '30todV40t5eU', Array)
+#2 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(50): Illuminate\Database\Connectors\Connector->tryAgainIfCausedByLostConnection(Object(PDOException), 'mysql:host=loca...', 'ebdbazar_everte...', '30todV40t5eU', Array)
+#3 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\ in /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[27-Sep-2022 17:17:12 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'ebdbazar_everte...', '30todV40t5eU', Array)
+#1 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(100): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'ebdbazar_everte...', '30todV40t5eU', Array)
+#2 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(50): Illuminate\Database\Connectors\Connector->tryAgainIfCausedByLostConnection(Object(PDOException), 'mysql:host=loca...', 'ebdbazar_everte...', '30todV40t5eU', Array)
+#3 /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\ in /home/ebdbazar/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
